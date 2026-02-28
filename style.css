@@ -804,6 +804,11 @@ section {
         margin-bottom: 3rem;
     }
 
+    .team-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
     .team-card {
         padding: 2.5rem 1.5rem;
     }
